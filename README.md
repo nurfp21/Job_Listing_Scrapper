@@ -5,7 +5,7 @@ Project ini merupakan aplikasi **web scraping sederhana menggunakan Python** yan
 
 Website ini dibuat khusus untuk keperluan pembelajaran, sehingga aman digunakan oleh pemula untuk memahami dasar-dasar web scraping tanpa kendala hukum maupun proteksi anti-scraping.
 
-Url Proyek :
+Url Proyek :  
 https://roadmap.sh/projects/job-listings-scraper
 
 Sumber website:  
